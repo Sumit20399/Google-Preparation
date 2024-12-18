@@ -15,7 +15,7 @@ class Node {
 
 public class CycleUndirectedBFS {
     // Function to check for a cycle starting from a source node using BFS
-    static boolean checkForCycle(ArrayList<ArrayList<Integer>> adj, int s, boolean vis[], int parent[]) {
+    static boolean checkForCycle(ArrayList<ArrayList<Integer>> adj, int s, boolean vis[]) {
         Queue<Node> q = new LinkedList<>(); // Queue for BFS traversal
         q.add(new Node(s, -1));  // Start with the source node and no parent
         vis[s] = true;
@@ -49,13 +49,10 @@ public class CycleUndirectedBFS {
         boolean vis[] = new boolean[V]; // Visited array to keep track of visited nodes
         Arrays.fill(vis, false);
 
-        int parent[] = new int[V]; // Parent array to track the parent of each node
-        Arrays.fill(parent, -1);
-
         // Check for cycle in each component of the graph
         for (int i = 0; i < V; i++) {
             if (!vis[i]) {
-                if (checkForCycle(adj, i, vis, parent)) {
+                if (checkForCycle(adj, i, vis)) {
                     return true; // Cycle found
                 }
             }

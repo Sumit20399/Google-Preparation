@@ -2,8 +2,6 @@ package Graphs.topoSort;
 
 import java.util.*;
 
-import java.util.*;
-
 public class TopoSortBFS {
     // Function to return a list containing vertices in Topological order
     public int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) {
