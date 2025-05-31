@@ -1,0 +1,8 @@
+1. Longest Increasing Path in a Matrix (leetcode 329) https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/
+2. Find All Possible Recipes from Given Supplies (leetcode 2115) https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/
+3. Course Schedule (leetcode 207) https://leetcode.com/problems/course-schedule/description/
+4. Course Schedule II (leetcode 210) https://leetcode.com/problems/course-schedule-ii/description/
+5. Sequence Reconstruction (leetcode 444) https://leetcode.com/problems/sequence-reconstruction/description/
+6. Alien Dictionary (leetcode 269) https://leetcode.com/problems/alien-dictionary/description/
+7. Parallel Courses (leetcode 1136) https://leetcode.com/problems/parallel-courses/description/
+7. Parallel Courses II (leetcode 1494) https://leetcode.com/problems/parallel-courses-ii/description/

@@ -4,3 +4,6 @@
 4. Map of Highest Peak (leetcode 1765) https://leetcode.com/problems/map-of-highest-peak/description/
 5. Number of Enclaves (leetcode 1020) https://leetcode.com/problems/number-of-enclaves/
 6. Word Ladder (leetcode 127) https://leetcode.com/problems/word-ladder/
+7. Is Graph Bipartite? (leetcode 785) https://leetcode.com/problems/is-graph-bipartite/description/
+8. Get Watched Videos by Your Friends (leetcode 1311) https://leetcode.com/problems/get-watched-videos-by-your-friends/description/
+9. Cut Off Trees for Golf Event (leetcode 675) https://leetcode.com/problems/cut-off-trees-for-golf-event/description/

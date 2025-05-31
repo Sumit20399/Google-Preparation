@@ -1,0 +1,5 @@
+1. Most Stones Removed with Same Row or Column (leetcode 947) https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/
+2. Accounts Merge (leetcode 721) https://leetcode.com/problems/accounts-merge/description/
+3. Number of Good Paths (leetcode 2421) https://leetcode.com/problems/number-of-good-paths/description/
+4. The Earliest Moment When Everyone Become Friends (leetcode 1101) https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/
+5. Number of Connected Components in an Undirected Graph (leetcode 323) https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/
